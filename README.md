@@ -1,2 +1,2 @@
 # Krayon Editor
-Editor built for client to edit their own or shared Krayon objects
+Editor built for clients to edit their own or shared Krayon objects
