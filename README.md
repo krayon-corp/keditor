@@ -1,2 +1,2 @@
 # Krayon Editor
-Editor built specifically for cloents to edit their own or shared Krayon objects
+Editor built for client to edit their own or shared Krayon objects
