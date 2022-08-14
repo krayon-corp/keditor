@@ -1,2 +1,2 @@
 # Krayon Editor
-Editor built for clients to edit their own or shared Krayon objects
+A Editor that was built on Krayon that edits Krayon projects... Krayon-ception!
